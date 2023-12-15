@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-Hello there! 👋 I'm Melvinmc720, an enthusiastic iOS and Python developer with a passion for crafting innovative solutions. Whether I'm immersed in the world of Swift, creating sleek iOS apps, or diving into the versatility of Python for robust backend development, I thrive on turning ideas into reality through clean and efficient code.
+Hello there! 👋 I'm Melvin, an enthusiastic iOS and Python developer with a passion for crafting innovative solutions. Whether I'm immersed in the world of Swift, creating sleek iOS apps, or diving into the versatility of Python for robust backend development, I thrive on turning ideas into reality through clean and efficient code.
 
 Join me on this coding journey, where each line of code tells a story of innovation and creativity. Let's build something amazing together! 🚀📱🐍
 
